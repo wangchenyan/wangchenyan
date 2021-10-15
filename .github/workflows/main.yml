@@ -8,7 +8,8 @@ on:
   push:
     branches: [ master ]
   schedule:
-    - cron: '0 21 * * 2'
+    # Run every Monday at 8 am
+    - cron: '0 0 8 * * 1'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
