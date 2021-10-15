@@ -19,7 +19,6 @@ jobs:
   blog:
     timeout-minutes: 10
     runs-on: ubuntu-latest
-    needs: social
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
