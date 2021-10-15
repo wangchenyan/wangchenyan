@@ -1,9 +1,9 @@
 ### Hi 👋
 **我是 wangchenyan**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wangchenyan)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wangchenyan&show_icons=true&bg_color=F0F7FF&title_color=1989FA&text_color=3E4B5C&icon_color=3E4B5C&locale=cn)
 
-#### 在哪里找到我：
+#### 在哪里找到我
 
 | 掘金 | 简书 | 微博 |
 | :-: | :-: | :-: |
