@@ -21,6 +21,9 @@
 #### 每周贡献
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### 最新文章
