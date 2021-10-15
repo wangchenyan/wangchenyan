@@ -29,5 +29,9 @@ No Activity tracked this Week
 #### 最新文章
 
 <!-- BLOG-POST-LIST:START -->
-- [从零开始让你的 APP 增加即时通信功
+- [从零开始让你的 APP 增加即时通信功能](https://juejin.cn/post/6997671811026518030)
+- [JetPack Compose 实战：打造一个 Compose 版本的「玩 Android」](https://juejin.cn/post/6963576334614282271)
+- [优雅的封装网络请求，协程 + Retrofit](https://juejin.cn/post/6959115482511343647)
+- [手撸一个 Router 框架（下）：路由拦截机制](https://juejin.cn/post/6844904193866596365)
+- [Android AssetManager finalize timed out 的坑](https://juejin.cn/post/6844903930309115911)
 <!-- BLOG-POST-LIST:END -->
