@@ -1,4 +1,5 @@
-### Hi，我是 wangchenyan
+### Hi 👋
+**我是 wangchenyan**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wangchenyan)
 
