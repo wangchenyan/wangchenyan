@@ -18,7 +18,12 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-#### 最近更新
+#### 每周贡献
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+#### 最新文章
 
 <!-- BLOG-POST-LIST:START -->
 - [从零开始让你的 APP 增加即时通信功能](https://juejin.cn/post/6997671811026518030)
