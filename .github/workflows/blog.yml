@@ -8,7 +8,7 @@ on:
   # push:
   #   branches: [ master ]
   schedule:
-    # Run at 10:00 every day
+    # Runs at 10:00 UTC+8 every day
     - cron: '0 2 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
