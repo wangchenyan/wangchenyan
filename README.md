@@ -30,7 +30,7 @@ No Activity tracked this Week
 #### 最新文章 [MORE >](https://juejin.cn/user/2313028193754168/posts)
 
 <!-- BLOG-POST-LIST:START -->
-- [手把手带你撸一个依赖任务启动框架](https://juejin.cn/post/7042201901399539748)
+- [听说你还不懂依赖任务启动框架？带你撸一个](https://juejin.cn/post/7042201901399539748)
 - [使用 CloseableReference 优雅的释放对象，来自 Fresco](https://juejin.cn/post/7026540580788240415)
 - [从零开始让你的 APP 增加即时通信功能](https://juejin.cn/post/6997671811026518030)
 - [JetPack Compose 实战：打造一个 Compose 版本的「玩 Android」](https://juejin.cn/post/6963576334614282271)
