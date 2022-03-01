@@ -22,9 +22,11 @@
 #### 本周贡献
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 #### 最新文章 [MORE >](https://juejin.cn/user/2313028193754168/posts)
