@@ -19,16 +19,6 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-#### 本周贡献
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 #### 最新文章 [MORE >](https://juejin.cn/user/2313028193754168/posts)
 
 <!-- BLOG-POST-LIST:START -->
