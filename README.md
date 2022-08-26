@@ -5,9 +5,9 @@
 
 #### 在哪里找到我
 
-| 掘金 | 简书 | 微博 |
-| :-: | :-: | :-: |
-| [点我](https://juejin.cn/user/2313028193754168) | [点我](https://www.jianshu.com/u/3231579893ac) | [点我](https://weibo.com/u/2671190123) |
+| 主页 | 掘金 | 简书 | 微博 |
+| :-: | :-: | :-: | :-: |
+| [点我](http://wangchenyan.top/) | [点我](https://juejin.cn/user/2313028193754168) | [点我](https://www.jianshu.com/u/3231579893ac) | [点我](https://weibo.com/u/2671190123) |
 
 #### 关于我
 
