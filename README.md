@@ -22,9 +22,9 @@
 #### 最新文章 [MORE >](https://juejin.cn/user/2313028193754168/posts)
 
 <!-- BLOG-POST-LIST:START -->
+- [鸿蒙即将抛弃Android，你还不来学习一下？](https://juejin.cn/post/7340307629891616808)
 - [鸿蒙开发入门之让 httpRequest 支持 Cookie](https://juejin.cn/post/7317183162870087716)
 - [重生！入门级开源音乐播放器APP —— 波尼音乐](https://juejin.cn/post/7294072229003952143)
 - [跨平台还能怎么玩？试试 Kotlin Multiplatform Mobile](https://juejin.cn/post/7217665415709933625)
 - [你真的了解 ImageView 的 adjustViewBounds 属性吗？](https://juejin.cn/post/7213252349560668216)
-- [记一次 Android 线上 OOM 的排查过程](https://juejin.cn/post/7055644963706503204)
 <!-- BLOG-POST-LIST:END -->
