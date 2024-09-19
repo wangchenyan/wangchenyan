@@ -7,7 +7,6 @@
 
 - 🏠 [个人主页](https://wangchenyan.top)
 - 📘 [掘金](https://juejin.cn/user/2313028193754168)
-- 📙 [简书](https://www.jianshu.com/u/3231579893ac)
 - 🐔 [微博](https://weibo.com/u/2671190123)
 
 ### 关于我
