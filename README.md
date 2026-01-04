@@ -1,7 +1,7 @@
 ## Hi 👋
 **我是 [wangchenyan](https://wangchenyan.top)**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wangchenyan&show_icons=true&bg_color=F0F7FF&title_color=1989FA&text_color=3E4B5C&icon_color=3E4B5C&locale=cn)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=wangchenyan&show_icons=true&bg_color=F0F7FF&title_color=1989FA&text_color=3E4B5C&icon_color=3E4B5C&locale=cn)
 
 ### 在哪里找到我
 
